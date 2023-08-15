@@ -1,5 +1,6 @@
 
-Number Guesser Game
+## Number Guesser Game
+
 Description
 The "Number Guesser Game" project is a small JavaScript-based guessing game that runs in the browser. The main goal of this project is to write JavaScript functions that power a simple game where users and the computer make guesses to target a random number between 0 and 9. This project enhances your understanding of JavaScript functions, conditional statements, and interactive web applications.
 
